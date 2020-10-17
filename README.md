@@ -6,6 +6,15 @@
 - ESLint https://eslint.org/
 - Prettier https://prettier.io/
 
+```bash
+npm init next-app temp-simple-nextjs-ts --example "https://github.com/tsuzuki557/temp-simple-nextjs-ts"
+# or
+yarn create next-app temp-simple-nextjs-ts --example "https://github.com/tsuzuki557/temp-simple-nextjs-ts"
+
+cd temp-simple-nextjs-ts
+```
+
+
 ## How to Make Boilerplate
 
 ### Next.js
