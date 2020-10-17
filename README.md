@@ -1,6 +1,7 @@
 # temp-simple-nextjs-ts
 
-## simple boilerplate: Next.js & TS & ESLint & Prettier
+simple boilerplate: Next.js & TS & ESLint & Prettier
+
 - Next.js https://nextjs.org/
 - TypeScript https://www.typescriptlang.org/
 - ESLint https://eslint.org/
