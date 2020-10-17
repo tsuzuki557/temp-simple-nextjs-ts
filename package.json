@@ -2,6 +2,7 @@
   "name": "temp-simple-nextjs-ts",
   "version": "0.1.0",
   "private": true,
+  "author": "tsuzuki557",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
