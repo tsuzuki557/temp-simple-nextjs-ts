@@ -68,3 +68,19 @@ package.json
 ```bash
 yarn add -D prettier eslint-plugin-prettier eslint-config-prettier
 ```
+
+---
+
+## package.json tools version upgrade
+
+first
+
+```bash
+yarn global add npm-check-updates
+```
+
+use
+
+```bash
+npm-check-updates -u
+```
